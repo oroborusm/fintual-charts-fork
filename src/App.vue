@@ -136,7 +136,7 @@ export default {
   ry: 5px
   stroke: #333
 .highcharts-navigator-mask-inside
-  fill: rgba(48,96,139,.5)
+  fill: rgba(48,96,139,.3)
 @media (max-width: 768px)
   nav
     .container
